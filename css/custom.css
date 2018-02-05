@@ -1,0 +1,145 @@
+/******************************************
+    File Name: custom.css
+    Template Name: oPPost
+    Created By: Show WP Team
+    Envato Profile: http://themeforest.net/user/wordpressshowcase
+    Website: https://showwp.com
+    Version: 1.0
+    Support: wordpressshowcasecom@gmail.com
+/******************************************/
+        
+    .optab .nav > li.active a,
+    .item-price small a i,
+    .rating i,
+    .twitter_feed li a,
+    .single-post a,
+    a:hover,   
+    .notfound a,
+    .reviews-progress small,
+    .footer li:hover a,
+    .navbar-nav > li.megamenu .dropdown-menu  a:hover,
+    a:focus,
+    .accountbtn:hover,
+    .color {
+        color:#FBBC25;
+    }
+
+    .large-post-meta a:hover,
+    .large-post-meta a:focus {
+        color:#FBBC25 !important;
+    }
+
+    .owl-nav [class*="owl-"],
+    .pricing-header,
+    .notfound h2,
+    #bbpress-forums li.bbp-body ul.forum li.bbp-forum-info:hover a,
+    .panel-info > .panel-heading,
+    .shop-price,
+    .shop-desc h3:hover a,
+    .progress-bar,
+    .tags a,
+    .dmtop:hover,
+    .navbar-nav > li > .dropdown-menu,
+    .pagination > li a.active,
+    .pagination > li a:hover,
+    .quotepost,
+    .readmore:hover,
+    .entry-title:hover a,
+     .related-posts .entry:hover a,
+    .newsletter,
+    .tooltip-inner,
+    .btn-primary,
+    .bgcolor {
+        color:#fdfbf8;
+        background-color: #0c74a6;
+        border-color: #0e1e37;
+    }
+
+    .style2 hr,
+    .dark-title hr,
+    .page-title h3,
+    .darktext hr,
+    .coupon-area .coupon-code,
+    .comment-wrap .footer-title hr,
+    .related-posts .footer-title hr  {
+        border-color: #FBBC25;
+    }
+
+    .tooltip.right .tooltip-arrow {
+      border-right-color: #FBBC25;
+    }
+    .tooltip.bottom .tooltip-arrow {
+      border-bottom-color: #FBBC25;
+    }
+
+    .navbar-nav > li > .dropdown-menu:after {
+        border-color:transparent;
+        border-bottom-color: #FBBC25;
+    }
+
+/**********************************
+    DARK YELLOW
+/**********************************/
+    
+    .btn-primary:active:hover, 
+    .btn-primary.active:hover, 
+    .open > .dropdown-toggle.btn-primary:hover, 
+    .btn-primary:active:focus, 
+    .btn-primary.active:focus, 
+    .open > .dropdown-toggle.btn-primary:focus, 
+    .btn-primary.focus:active, 
+    .btn-primary.active.focus, 
+    .open > .dropdown-toggle.btn-primary.focus,
+    .tags a:hover,
+    .ribbon-green,
+    .dropdown-menu > li:hover,
+    .dropdown-menu > li:focus,
+    .btn-primary:hover,
+    .btn-primary:focus,
+    .navbar-nav > li:hover, .navbar-default .navbar-nav > .active > a, .navbar-default .navbar-nav > .active > a:hover, .navbar-default .navbar-nav > .active > a:focus {
+        background-color: #070a11;
+        border-color: #0c74a6;
+        color: #fdfbf8;
+    }
+
+    .rating i:hover {
+        color:#ffc42d;
+    }
+
+/**********************************
+    DARK BUTTON
+/**********************************/
+    mark, .mark,
+    .btn-default {
+        color:#fff;
+        background-color: #333333;
+        border-color: #333333;
+    }
+    .btn-default:hover,
+    .btn-default:focus {
+        color:#fff;
+        background-color: #232323;
+        border-color: #232323;
+    }
+    ::selection {
+        background: #333333; /* Safari */
+        color:#fff;
+    }
+    
+    ::-moz-selection {
+        background: #333333; /* Firefox */
+        color:#fff;
+    }
+/**********************************
+    VIDEO PLAYER
+/**********************************/
+
+    .mejs-controls .mejs-time-rail .mejs-time-loaded {
+        background: #333;
+    }
+    .mejs-container .mejs-controls {
+        background:#FBBC25;
+    }
+    .mejs-controls .mejs-time-rail .mejs-time-current {
+        background: #ffffff;
+    }
